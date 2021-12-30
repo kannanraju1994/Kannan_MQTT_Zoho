@@ -21,6 +21,7 @@
 
 /************************* WiFi Access Point *********************************/
 
+//String WLAN_SSID  =     "Kannan_Viji";
 String WLAN_SSID  =     "Kannan_Viji";
 String WLAN_PASS   =    "viji@123";
 
